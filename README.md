@@ -1,0 +1,1 @@
+# GeoPonos---AI-Plant-Disease-Detector
